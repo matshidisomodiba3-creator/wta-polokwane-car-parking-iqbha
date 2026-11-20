@@ -1,0 +1,15 @@
+{
+  "name": "polokwane-car-parking",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0",
+    "sharp": "^0.33.5",
+    "adm-zip": "^0.5.16",
+    "@capacitor/local-notifications": "^7.0.0",
+    "@capacitor/share": "^7.0.0"
+  }
+}

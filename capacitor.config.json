@@ -1,0 +1,16 @@
+{
+  "appId": "com.webtoapp.polokwanecarparkingqbha",
+  "appName": "Polokwane car parking",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "url": "https://polokwanecarparking.com/",
+    "cleartext": false,
+    "allowNavigation": [
+      "polokwanecarparking.com",
+      "*.polokwanecarparking.com"
+    ]
+  }
+}
